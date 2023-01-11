@@ -7,6 +7,7 @@ I also compose music and design 3D graphics.
 GIMP, Krita, Libresprite, Inkscape, Nuclino, Obsidian and of course GitHub!
 
 💻 I am currently managing an RPG collaboration project made in Godot - __come join__: https://discord.gg/fyyYMKfZYj
+🤖 I am also helping out with the awesome Nebula project!
 
 🌱 I’m currently learning Discord.js - https://discord.js.org/
 
