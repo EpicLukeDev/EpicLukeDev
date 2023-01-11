@@ -24,7 +24,7 @@ GIMP, Krita, Libresprite, Inkscape, Nuclino, Obsidian and of course GitHub!
 
 
 <div id="badges" align="center">
-  <a href="discordapp.com/users/1058287634402783294">
+  <a href="https://discordapp.com/users/1058287634402783294">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
