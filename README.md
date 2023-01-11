@@ -1,5 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # Hi there 👋
 ### My name is Luke!
+
 I am a software and game developer, I use and support free and open source software.
 I also compose music and design 3D graphics.
 
