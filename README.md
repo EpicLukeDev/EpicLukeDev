@@ -22,10 +22,14 @@ GIMP, Krita, Libresprite, Inkscape, Nuclino, Obsidian and of course GitHub!
 
 🧑‍🤝‍🧑 Feel free to reach out or to friend me on Discord: `EpicLuke#1234` - __DMs always open!__
 
+---
 
 <div id="badges" align="center">
   <a href="https://discordapp.com/users/1058287634402783294">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+</div>
+
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
