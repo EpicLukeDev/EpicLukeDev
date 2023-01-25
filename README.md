@@ -46,12 +46,6 @@ _Links coming soon! ;)_
 ---
 
 
-<iframe src="https://discord.com/widget?id=1059726058875793470&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-
----
-
-
 <div id="badges" align="center">
   <a href="https://discordapp.com/users/1058287634402783294">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
