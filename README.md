@@ -8,7 +8,7 @@
 
 
 I am a software and game developer, I use and support free and open source software... primarily ;)
-I also compose music and let's just say my aart skills are a little... questionable.
+I also compose music and let's just say my art skills are a little... questionable.
 
 
 > I use and highly recommend Godot Engine, Visual Studio Code, Blender, DaVinci Resolve,
