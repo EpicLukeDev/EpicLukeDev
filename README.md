@@ -4,7 +4,7 @@
 
 
 # Hi there 👋
-### My name is Luke!
+### My name is Luke! You can call me Epic!
 
 
 I am a software and game developer, I use and support free and open source software (primarily 😉).
