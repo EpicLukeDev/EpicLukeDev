@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="400"/>
 </div>
 
 
 # Hi there 👋
-### My name is Luke! You can call me Epic!
+### My name is Luke! Call me Epic!
 
 
 I am a software and game developer, I use and support free and open source software (primarily 😉).
@@ -15,25 +15,21 @@ I also compose music/design sound and let's just say my art skills are a little.
 GIMP, Krita, Libresprite, Inkscape, Nuclino, Obsidian and of course GitHub!
 
 
-💻 I am the owner of Gecko Studios, the game development studio!
+💻 I am the owner of:
+ - Gecko Studios, the game development studio - https://geckostudios.org
+ - Salva Discord Bot (verified, discoverable)
+ - CosmoBot (in development)
+ - Coder Kingdom Discord Server
 
-🤖 I am also affiliated with the awesome Nebula Discord Bot project!
+🤖 I am a sponsor and server moderator for the Nebula Discord Bot
 
-🌱 I’m currently trying to learn Discord.js to help out with coding Nebula! - https://discord.js.org/
+🌱 I’m currently learning:
+  - NextCord: An open source Discord lib for Python - https://github.com/nextcord/nextcord
+  - JavaScript
 
 🧑‍🤝‍🧑 Feel free to reach out or to friend me on Discord: `EpicLuke#1234` - __DMs always open!__
 
 
----
-
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg" title="Godot Engine" alt="Godot Engine" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" width="100" height="100"/>&nbsp;
-
-  
 ---
 
 
