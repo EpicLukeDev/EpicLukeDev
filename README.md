@@ -17,7 +17,8 @@ GIMP, Krita, Libresprite, Inkscape, Nuclino, Obsidian and of course GitHub!
 
 I manage and design Discord Servers.
 
-I am a certified c++ and c# developer and I am improving my full stack skills I also use Godot and GDScript for game development.
+I am a certified C++ and C# developer, I am improving my full stack skills
+I also use and support Godot Game Engine and itt's language GDScript for game development.
 
 
 💻 I am the owner of:
