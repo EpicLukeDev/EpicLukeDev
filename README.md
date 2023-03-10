@@ -8,29 +8,26 @@
 
 
 I am a software and game developer, I use and support free and open source software (primarily 😉).
-I also compose music/design sound and let's just say my art skills are a little... questionable.
+I also compose music/design sound, play piano and let's just say my art skills are a little... questionable.
 
 
 > I use and highly recommend Godot Game Engine, Visual Studio Code, Blender, DaVinci Resolve,
 GIMP, Krita, Libresprite, Inkscape, Nuclino, Obsidian and of course GitHub!
 
 
-I manage and design Discord Servers.
-
-I am a certified C++ and C# developer, I am improving my full stack skills
-I also use and support Godot Game Engine and itt's language GDScript for game development.
+I also use and support Godot Game Engine and it's language GDScript for game development.
 
 
 💻 I am the owner of:
- - Gecko Studios, the game development studio - https://geckostudios.org
- - Salva Discord Bot (verified, discoverable)
+ - Incosmo, the software company
  - CosmoBot (in development)
- - Coder Kingdom Discord Server
+ - Gecko Studios, the game development studio
 
-🤖 I am a sponsor and server moderator for the Nebula Discord Bot
+🤖 __CosmoBot__
 
 🌱 I’m currently learning:
-  - NextCord: An open source Discord lib for Python - https://github.com/nextcord/nextcord
+  - JavaScript
+  - Discord.js
 
 🧑‍🤝‍🧑 Feel free to reach out or to friend me on Discord: `EpicLuke#1234` - __DMs always open!__
 
