@@ -23,7 +23,7 @@ I also use and support Godot Game Engine and it's language GDScript for game dev
  - CosmoBot (in development)
  - Gecko Studios, the game development studio
 
-🤖 __CosmoBot__ Experience an all new Discord! 👀
+🤖 __CosmoBot__ - Experience an all new Discord! 👀
 
 🌱 I’m currently learning:
   - JavaScript
