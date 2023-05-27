@@ -25,10 +25,6 @@ I also use and support Godot Game Engine and it's language GDScript for game dev
 
 🤖 __CosmoBot__ - Experience an all new Discord! 👀
 
-🌱 I’m currently learning:
-  - JavaScript
-  - Discord.js
-
 🧑‍🤝‍🧑 Feel free to reach out or to friend me on Discord: `EpicLuke#1234` - __DMs always open!__
 
 
